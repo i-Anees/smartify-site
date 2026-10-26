@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1400" viewBox="0 0 1200 1400">
+<defs><linearGradient id="wall" x1="0" x2="1"><stop stop-color="#c6bdb3"/><stop offset=".45" stop-color="#e7e1d5"/><stop offset="1" stop-color="#b2a79d"/></linearGradient><linearGradient id="depth"><stop stop-color="#32252a"/><stop offset="1" stop-color="#785e5d"/></linearGradient></defs>
+<path fill="#eae5db" d="M0 0h1200v1400H0z"/>
+<path d="M70 125h1060" stroke="#382a2e" opacity=".2"/>
+<text x="70" y="90" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#382a2e" letter-spacing="-1">quiet form.</text><text x="1130" y="87" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#382a2e" letter-spacing="2">SPACE / FORM / FEELING</text>
+<text x="70" y="310" font-family="Arial,sans-serif" font-size="99" fill="#382a2e" letter-spacing="-6">A quieter kind</text><text x="70" y="420" font-family="Arial,sans-serif" font-size="99" fill="#382a2e" letter-spacing="-6">of extraordinary.</text>
+<text x="75" y="490" font-family="Arial,sans-serif" font-size="19" fill="#6c5e5f">Considered spaces. Unexpected perspectives.</text>
+<path fill="#d5cdc1" d="M70 580h1060v650H70z"/>
+<path d="M70 1160 1130 1060v170H70z" fill="#b8aa9c"/>
+<path d="M170 1160V865a265 265 0 0 1 530 0v295z" fill="url(#wall)"/>
+<path d="M250 1160V878a185 185 0 0 1 370 0v282z" fill="url(#depth)"/>
+<path d="M290 1160V895a150 150 0 0 1 300 0v265z" fill="#a89385"/>
+<path d="M340 1160V906a110 110 0 0 1 220 0v254z" fill="#d0bfb0"/>
+<path d="M400 1160V935a65 65 0 0 1 130 0v225z" fill="#594147"/>
+<path d="m620 1160 280-70h230v140H620z" fill="#d6cabd"/>
+<circle cx="950" cy="823" r="92" fill="#70020E"/>
+<path d="M75 1292h1055" stroke="#382a2e" opacity=".2"/>
+<text x="75" y="1340" font-family="Arial,sans-serif" font-size="16" fill="#382a2e" letter-spacing="2">A DIGITAL EXPERIENCE STUDY</text><text x="1130" y="1340" text-anchor="end" font-family="Arial,sans-serif" font-size="16" fill="#382a2e">02 / CONCEPT</text>
+</svg>

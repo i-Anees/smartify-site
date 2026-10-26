@@ -1,0 +1,64 @@
+{
+  "generator": "Built-in image_gen",
+  "reference": "/images/brand/a_clean_modern_high_resolution_ui_website_design.png",
+  "assets": [
+    {
+      "files": [
+        "/images/brand/ai-robot-640.webp",
+        "/images/brand/ai-robot-1120.webp"
+      ],
+      "prompt": "Photorealistic premium pearl-white and brushed-titanium humanoid AI robot, three-quarter profile facing left, articulated hand interacting with a transparent holographic interface. Dark navy joints, precise seams, restrained technology-blue edge lighting and a small burgundy detail. Seamless white studio background, pale blue ambient light, realistic product-photography reflections. Portrait 4:5 composition, head, shoulders, hand and interface inside frame. No logos, typography, readable interface claims, watermark or dark backdrop."
+    },
+    {
+      "files": [
+        "/images/brand/connected-studio-640.webp",
+        "/images/brand/connected-studio-1120.webp"
+      ],
+      "prompt": "Portrait 4:5 high-end architectural visualization of a bright, empty creative technology studio. Floor-to-ceiling windows, white walls, glass partitions, navy meeting chairs, light oak collaborative desk, closed laptop and a green plant. Morning daylight, cool blue reflections, restrained burgundy upholstery details. White and pale-blue palette, soft white left and lower edges for integration. No people, logos, signage, text or watermark."
+    },
+    {
+      "files": [
+        "/images/services/development-studio-640.webp",
+        "/images/services/development-studio-1280.webp"
+      ],
+      "prompt": "Landscape 4:3 realistic premium product photograph of a thin dark navy laptop, open at a three-quarter angle on a clean white desk. Structured abstract code editor with blue highlights, softly blurred white architectural background and small green plant at far right. Natural studio light, white and pale-blue surroundings, discreet technology-blue lighting. Entire laptop and screen inside frame. No people, logos, watermark, claims or headlines."
+    },
+    {
+      "files": [
+        "/images/services/mobile-apps-640.webp",
+        "/images/services/mobile-apps-1120.webp"
+      ],
+      "prompt": "Two premium navy smartphones with burgundy and white original mobile UI concepts. Landscape 3:2 premium photorealistic studio product render. Soft white #FFFFFF and pale #F5F8FF backdrop, burgundy #800B25, navy #101B35 and restrained blue #2563EB edge light. Real material textures, soft shadows, generous framing. No people, logos, watermarks, readable lettering or numerical claims."
+    },
+    {
+      "files": [
+        "/images/services/ui-ux-design-640.webp",
+        "/images/services/ui-ux-design-1120.webp"
+      ],
+      "prompt": "Translucent glass wireframe, typography and interface boards with a polished cursor sculpture. Landscape 3:2 premium photorealistic studio product render. Soft white #FFFFFF and pale #F5F8FF backdrop, burgundy #800B25, navy #101B35 and restrained blue #2563EB edge light. Real material textures, soft shadows, generous framing. No people, logos, watermarks, readable lettering or numerical claims."
+    },
+    {
+      "files": [
+        "/images/services/branding-640.webp",
+        "/images/services/branding-1120.webp"
+      ],
+      "prompt": "Burgundy embossed business cards, ivory paper, navy notebook and a brand color swatch fan. Landscape 3:2 premium photorealistic studio product render. Soft white #FFFFFF and pale #F5F8FF backdrop, burgundy #800B25, navy #101B35 and restrained blue #2563EB edge light. Real material textures, soft shadows, generous framing. No people, logos, watermarks, readable lettering or numerical claims."
+    },
+    {
+      "files": [
+        "/images/services/digital-marketing-640.webp",
+        "/images/services/digital-marketing-1120.webp"
+      ],
+      "prompt": "Pearlescent white and burgundy megaphone with abstract glass campaign panels and signal arcs. Landscape 3:2 premium photorealistic studio product render. Soft white #FFFFFF and pale #F5F8FF backdrop, burgundy #800B25, navy #101B35 and restrained blue #2563EB edge light. Real material textures, soft shadows, generous framing. No people, logos, watermarks, readable lettering or numerical claims."
+    },
+    {
+      "files": [
+        "/images/services/it-solutions-640.webp",
+        "/images/services/it-solutions-1120.webp"
+      ],
+      "prompt": "Navy server towers and a silver processor on glass, connected by blue light pathways. Landscape 3:2 premium photorealistic studio product render. Soft white #FFFFFF and pale #F5F8FF backdrop, burgundy #800B25, navy #101B35 and restrained blue #2563EB edge light. Real material textures, soft shadows, generous framing. No people, logos, watermarks, readable lettering or numerical claims."
+    }
+  ],
+  "usage": "Original conceptual website artwork; does not depict actual Smartify staff, premises or commissioned client work.",
+  "encoding": "Responsive WebP encodings at quality 86; original generated PNG files preserved in the image generator output directory."
+}

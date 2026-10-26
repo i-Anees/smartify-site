@@ -1,0 +1,73 @@
+{
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "typography": [
+    {
+      "text": " A CREATIVE TECHNOLOGY STUDIO",
+      "fontFamily": "\"Instrument Sans\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "10px",
+      "lineHeight": "16px",
+      "color": "rgb(191, 175, 179)",
+      "width": 1320
+    },
+    {
+      "text": "Intelligence,madeextraordinary.",
+      "fontFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "112px",
+      "lineHeight": "114.24px",
+      "color": "rgb(250, 247, 245)",
+      "width": 1320
+    },
+    {
+      "text": "We bring strategy, design, and technology together. To turn your next big idea into something that matters.",
+      "fontFamily": "\"Instrument Sans\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "15px",
+      "lineHeight": "25.5px",
+      "color": "rgb(191, 175, 179)",
+      "width": 470
+    },
+    {
+      "text": "02 / SELECTED EXPLORATIONS",
+      "fontFamily": "\"Instrument Sans\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "10px",
+      "lineHeight": "16px",
+      "color": "rgb(191, 175, 179)",
+      "width": 193.609375
+    },
+    {
+      "text": "A LITTLE OF HOW WE THINK",
+      "fontFamily": "\"Instrument Sans\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "10px",
+      "lineHeight": "16px",
+      "color": "rgb(191, 175, 179)",
+      "width": 178.40625
+    },
+    {
+      "text": "Different by design.Extraordinary by intent.",
+      "fontFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "52px",
+      "lineHeight": "58.24px",
+      "color": "rgb(250, 247, 245)",
+      "width": 775.375
+    },
+    {
+      "text": "03 / YOUR NEXT CHAPTER",
+      "fontFamily": "\"Instrument Sans\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "10px",
+      "lineHeight": "16px",
+      "color": "rgb(231, 191, 197)",
+      "width": 163.203125
+    },
+    {
+      "text": "Let’s makeit matter.",
+      "fontFamily": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "122px",
+      "lineHeight": "120.78px",
+      "color": "rgb(250, 247, 245)",
+      "width": 756
+    }
+  ],
+  "errors": []
+}
